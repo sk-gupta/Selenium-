@@ -7,12 +7,12 @@ public class String_functions {
 		int a = 4;
 		int b = 56;
 		Integer ab = 5;
-		ab.
+		//ab.
 		
-		int ch = str.indexOf(7);
-		boolean test = str.endsWith("ium");
-		System.out.println(ch);
-		System.out.println(test);
+		//int ch = str.indexOf(7);
+		//boolean test = str.endsWith("ium");
+		//System.out.println(ch);
+		//System.out.println(test);
 
 	}
 
